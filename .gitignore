@@ -1,3 +1,9 @@
+# IDE
 .idea/
+
+# Scrapy
 rarbg/__pycache__/
 rarbg/spiders/__pycache__/
+
+# Output
+sub.json
